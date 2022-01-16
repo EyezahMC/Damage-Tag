@@ -1,0 +1,8 @@
+name: eGames-DamageTag
+version: '${project.version}'
+main: com.eyezah.mc.egames.damagetag.DamageTag
+api-version: 1.18
+authors: [ eyezah ]
+description: Damage Tag for eGames.
+depend: [ eGames ]
+website: eyezah.com
